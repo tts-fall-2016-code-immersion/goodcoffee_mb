@@ -1,0 +1,68 @@
+/*.navbar-default {
+	color: white;
+	background-color: black;
+}
+.navbar-nav {
+color: white;
+background-color: black;
+}*/
+
+body {
+  font-family: 'Raleway', 'sans-serif';
+  background-color: #A2DED0;
+}
+
+.jumbo {
+	background-image: url("../goodcoffeeimages/goodcoffee1.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	width: 100%;
+	margin-top: -40px;
+	padding: 20%;
+	background-attachment: fixed;
+	background-position: center -238px;
+}
+.coffee-title {
+	position: absolute;
+	left: 0;
+	margin-top: -10px;
+	padding-left: 20px;
+	color: #ffffff !important;
+}
+
+.mission {
+	background-color: #323232;
+	color: #f7fafe;
+	margin-top: -30px;
+}
+.mission h3{
+	padding: 5% 10%;
+}
+
+.features {
+	font-family: 'Muli', 'sans-serif';
+	text-align: center;
+	font-size: 1.2em;
+	padding-top: 10px;
+	color: #323232;
+}
+
+footer {
+	background-color: #D64541;
+	position: absolute;
+	width: 100%;
+	height: auto;
+}
+
+footer li{
+	display: inline-block;
+	list-style-type: none;
+	padding: 2%;
+	float: right;
+}
+
+footer p{
+	float: left;
+	vertical-align: middle;
+	color: #fff;
+}
